@@ -1,0 +1,15 @@
+{
+  "name": "test-moduloze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Horacio Herrera",
+  "license": "ISC",
+  "dependencies": {
+    "moduloze": "^0.7.0"
+  }
+}
