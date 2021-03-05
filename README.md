@@ -16,6 +16,10 @@ import { UpdateDraftRequest } from "./out.js"
 // more code here
 ```
 
+## Actual result
+
+- checkout [the out file](./_out.js)
+
 ## Possible issues
 
 - not setting the correct dependency map
